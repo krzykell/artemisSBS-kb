@@ -4,8 +4,8 @@ To jest baza wiedzy stworzona z doświadczenia zebranego przez ekipę Łódzkieg
 Poniżej znajduje się spis treści, który powinien odsyłać do poszczególnych sekcji bazy wiedzy. Każda sekcja powinna posiadać przycisk powrotu do tego spisu dla łatwości użytkowania.
 
 # Spis Treści
-1. [Skąd wziąć kopię gry](content/1-skad-wziac-kopie-gry.md)
-2. [Skrót z uruchomienia mostka ArtemisSBS](content/2-skrot-z-uruchomienia-mostka-artemissbs.md)
+1. [Skąd wziąć kopię gry](/content/1-skad-wziac-kopie-gry.md)
+2. [Skrót z uruchomienia mostka ArtemisSBS](/content/2-skrot-z-uruchomienia-mostka-artemissbs.md)
 3. [Instalacja gry oraz poprawa jej stabilności]()
 4. [Konfiguracja gry 1 (pliki konfiguracyjne, ustawienia przed rozgrywką)]()
 5. [Konfiguracja gry 2 (konfiguracja podczas rozgrywki)]()
