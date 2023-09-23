@@ -1,7 +1,7 @@
 # Skąd wziąć kopię gry
 
-> [!IMPORTANT]
-> Podane niżej linki i ceny produktów NA PEWNO ulegną zmianie, gdyż ten dokument pisany był 23.09.2023.
+> [!WARNING]
+> Podane niżej linki i ceny produktów **NA PEWNO** ulegną zmianie. Ostatnia data edycji poniższych linków, cen i zrzutów ekranu to **23.09.2023**.
 
 Artemis SBS można [kupić na Steam](https://store.steampowered.com/app/247350/) za około **32 PLN**, lub [kupić bezpośrednio u twórców gry](https://www.artemisspaceshipbridge.com/buy-artemis-2-now.html#/) za **40$**.
 
