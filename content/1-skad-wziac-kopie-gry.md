@@ -11,4 +11,4 @@ Osobiście polecam kupować grę bezpośrednio u twórców z racji na to, że wt
 
 Poniżej zrzut ekranu z oficjalnej strony gry z informacją do czego uprawnia jedna licencja na mostek:
 
-![Screenshot1](content/img/2-faq-screen1.png)
+![Screenshot1](/content/img/2-faq-screen1.png)
