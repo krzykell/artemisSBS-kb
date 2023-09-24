@@ -1,9 +1,11 @@
 # ArtemisSBS Knowledge Base
+
 To jest baza wiedzy stworzona z doświadczenia zebranego przez ekipę Łódzkiego Fanklubu Star Wars przez lata wystawiania Artemis SBS na konwentach, napisana w celu urposzczenia ustawiania gry, troubleshootingu i prowadzenia jej przez inne osoby.
 
 Poniżej znajduje się spis treści, który powinien odsyłać do poszczególnych sekcji bazy wiedzy. Każda sekcja powinna posiadać przycisk powrotu do tego spisu dla łatwości użytkowania.
 
-# Spis Treści
+## Spis Treści
+
 1. [Skąd wziąć kopię gry](/content/1-skad-wziac-kopie-gry.md)
 2. [Skrót z uruchomienia mostka ArtemisSBS](/content/2-skrot-z-uruchomienia-mostka-artemissbs.md)
 3. [Instalacja gry oraz poprawa jej stabilności]()
@@ -19,14 +21,16 @@ Poniżej znajduje się spis treści, który powinien odsyłać do poszczególnyc
 13. [Jak grę ustawia, prezentuje i prowadzi Kellner / Codix / Amdir]()
 14. [Informacje nieskategoryzowane bądź do skategoryzowania późniejszego (tzw. śmietnik)]()
 
-# Szybkie skróty
-Problem 																| Odpowiedź | Tagi dla łatwiejszego szukania
-:--- 																	| :---: 	| :---
-"Muszę przekazać organizacji konwentu wymagania do prowadzenia tej gry" | [TUTAJ]() | organizacja, wymagania, salka, info
-"HELP! Nic nie działa! SH*T BROKEY" 									| [TUTAJ]() | problemy techniczne, nie działa, bug
-"Chcę zmienić ustawienia klawiatury" 									| [TUTAJ]() | ustawienia, klawiszologia, controlsy
-"Jak mam ustawić salę, żeby było wygodnie?" 							| [TUTAJ]() | ustawienie biurek, ustawienie stacji, topologia
+## Szybkie skróty
 
-# Licencja
+Problem                                                                 | Odpowiedź | Tagi dla łatwiejszego szukania
+:---                                                                    | :---:     | :---
+"Muszę przekazać organizacji konwentu wymagania do prowadzenia tej gry" | [TUTAJ]() | organizacja, wymagania, salka, info
+"HELP! Nic nie działa! SH*T BROKEY"                                     | [TUTAJ]() | problemy techniczne, nie działa, bug
+"Chcę zmienić ustawienia klawiatury"                                    | [TUTAJ]() | ustawienia, klawiszologia, controlsy
+"Jak mam ustawić salę, żeby było wygodnie?"                             | [TUTAJ]() | ustawienie biurek, ustawienie stacji, topologia
+
+## Licencja
+
 Całe repozytorium i jego zawartość są na licencji The Unlicense. Używaj do woli, kopiuj, cytuj, klonuj i modyfikuj wedle uznania.
 Więcej informacji znajdziesz na <https://unlicense.org>

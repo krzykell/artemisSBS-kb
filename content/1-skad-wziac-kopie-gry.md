@@ -1,9 +1,10 @@
-# Skąd wziąć kopię gry
+# 1. Skąd wziąć kopię gry
 
 > [!WARNING]
 > Podane niżej linki i ceny produktów **NA PEWNO** ulegną zmianie. Ostatnia data edycji poniższych linków, cen i zrzutów ekranu to **23.09.2023**.
 
 Artemis SBS można kupić w dwóch miejscach:
+
 - [na Steam (Artemis Spaceship Bridge Simulator on Steam)](https://store.steampowered.com/app/247350/)
   - cena to około **32 PLN**[^1] (przy 6 graczach łącznie wyniesie to około **192 PLN**)
 - [bezpośrednio u twórców gry (Buy Artemis 2 Now - Artemis Spaceship Bridge Simulator)](https://www.artemisspaceshipbridge.com/buy-artemis-2-now.html#/)
@@ -19,12 +20,13 @@ Poniżej zrzut ekranu z oficjalnej strony gry z informacją do czego uprawnia je
 
 W skrócie:
 
-```
+```txt
 JEDEN MOSTEK = JEDEN STATEK MATKA = JEDNA LICENCJA NIEZALEŻNIE OD LICZBY GRACZY
 ```
 
 ***ALE!***
-```
+
+```txt
 DRUGI MOSTEK = DRUGI STATEK MATKA = DRUGA LICENCJA
 ```
 
